@@ -1,0 +1,99 @@
+.About{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.Container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #93518b;
+    height: 490px;
+    padding: 30px 0px;
+}
+.WidthContent{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.Header{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+}
+.Img{
+    height: 170px;
+    border-radius: 50%;
+}
+.Name{
+    font-size: 2.1rem;
+    font-weight: bold;
+    color: #daa7d0;
+}
+.Cargo{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #3c0936;
+}
+.Desc{
+    width: 100%;
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #daa7d0;
+}
+.ContainerDash{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 30px 0px;
+}
+.Hath{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ImgDash{
+    height: 350px;
+}
+.DescDash{
+    width: 45%;
+    font-size: 1.6rem;
+    color: #93518b;
+    font-weight: 500;
+    text-align: center;
+}
+.ContainerVideo{
+    width: 100%;
+    padding: 30px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #93518b;
+}
+.HathVideo{
+    width: 80%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Video{
+    width: 40%;
+    height: 300px;
+}
+.DescVideo{
+    width: 40%;
+    text-align: justify;
+    font-size: 2rem;
+    color: #3c0936;
+}
