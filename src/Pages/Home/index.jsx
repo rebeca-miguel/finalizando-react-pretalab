@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.Home}>
       <div className={styles.Full}>
         <div className={styles.Text}>Projete o seu Futuro com a gente!</div>
-        <img src="https://img.freepik.com/fotos-gratis/carro-luxuoso-estacionado-na-estrada-com-um-farol-iluminado-ao-por-do-sol_181624-60607.jpg" alt="" className={styles.Img} />
+        <img src="https://media.istockphoto.com/id/1511315040/pt/foto/smile-tablet-and-search-with-black-woman-in-office-for-technology-corporate-and-communication.jpg?s=1024x1024&w=is&k=20&c=dzOLeiXozgj5MDKZJwY2L9u9c0v_z6iJO7GBOwTFIc0=" alt="" className={styles.Img} />
       </div>
       <div className={styles.FullSegunde}>
         <div className={styles.TextSecund}>Esse é o site do projeto final do módulo de React do Ciclo formativo Básico da Pretalab. Projeto desenvolvido em React abordando todos os tópicos vistos durante a aula (Componentes, Props, Estados, Listas e Keys, Hooks, onChange e onClick, Context API em React, React Router DOM imagens e modularização do CSS, TDD).</div>
