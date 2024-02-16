@@ -6,7 +6,7 @@ export default function About() {
       <div className={styles.Container}>
         <div className={styles.WidthContent}>
           <div className={styles.Header}>Escreva sobre você!!!</div>
-          <img className={styles.Img} src="https://static.vecteezy.com/ti/vetor-gratis/p3/2002247-icone-de-avatar-de-mulher-negra-bonita-gratis-vetor.jpg" alt="" />
+          <img className={styles.Img} src="https://static.vecteezy.com/ti/vetor-gratis/p3/2002247-icone-de-avatar-de-mulher-negra-bonita-gratis-vetor.jpg" alt="imagem sobre" />
 
           <div className={styles.Name}>Rebeca Gaspar Miguel Miguel</div>
           <div className={styles.Cargo}>Desenvolvedora Front-End</div>
